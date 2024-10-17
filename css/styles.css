@@ -1,0 +1,179 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f9;
+    color: #333;
+  }
+  
+
+  header {
+    text-align: center; 
+    padding: 20px 0;
+    background-color: #4CAF50;
+}
+
+
+   header h1{
+    font-size: 16px;
+    text-align:left;
+    margin-left: 50px;
+    color: #fffcfc;
+    margin-top: auto;
+    font-weight:bolder;
+   }
+  
+
+  .welcome-section {
+    text-align: center;
+  }
+  
+  .welcome-image {
+    width: 200px;
+    height: auto;
+    border-radius: 50%;
+    align-items: center;
+    margin-top: 40px;
+    margin-bottom: 30px;
+  }
+  
+  .welcome-section h2, .welcome-section p {
+    margin: 1px 0;
+    line-height: 1;
+  }
+
+  .centered {
+    text-align: center;
+    font-family: "Times New Roman", Times, serif; 
+    margin-left: 175px ;
+    max-width: 1000px;
+    line-height: 1.6;
+    text-align: justify; 
+    margin-top: 20px;
+    font-size: 18px;
+}
+nav {
+    text-align: right; 
+    margin-top:-40px; 
+    margin-bottom:-20px; 
+    margin-right: 40px;
+    
+}
+
+nav ul {
+    list-style-type: none; 
+    padding: 0; 
+}
+
+nav li {
+    display: inline; 
+    margin-right: 40px;
+   
+
+}
+  
+  nav ul li a {
+    text-decoration: none;
+    color: #fffcfc;
+    font-size: 13.5px;
+    
+  }
+  
+  nav ul li a:hover {
+    color: #4CAF50;
+  }
+  
+  .about-section {
+    margin-top:20px ;
+    margin-bottom:300px;
+  }
+
+.skills-section {
+    margin-top:20px ;
+    margin-bottom:300px;
+}
+
+.hobbies-section {
+    margin-top:20px ;
+    margin-bottom:300px;
+}
+
+.contact-section {
+    margin-top:20px ;
+    margin-bottom:300px;
+}
+
+ul {
+    list-style-type: none; 
+}
+
+.skills-section ul, 
+.hobbies-section ul,
+.contact-section ul,
+.about-section ul {
+    list-style-type: none; 
+    padding: 0; 
+    margin: 0; 
+}
+.skills-section h2 {
+    margin: 1px 0;
+    line-height: 1;
+    text-align: left;
+}
+.skills-section p{
+    text-align: left;
+    text-align: justify;
+    margin-left: 40px;   
+}
+
+.skills-section li{
+    text-align: left;
+    text-align: justify;
+    margin-left: 40px;   
+}
+.about-section h2{
+    margin: 1px 0;
+    line-height: 1;
+    text-align: left;
+}
+.about-section p{
+    text-align: left;
+    text-align: justify;
+    margin-left: 40px;  
+}
+.hobbies-section h2 {
+    margin: 1px 0;
+    line-height: 1;
+    text-align: left;
+}
+.hobbies-section p{
+    text-align: left;
+    text-align: justify;
+    margin-left: 40px;   
+}
+.hobbies-section li {
+    text-align: left;
+    text-align: justify;
+    margin-left: 40px;   
+}
+  footer {
+    text-align: center;
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 0;
+  }
+  .contact-section h2{
+    margin: 1px 0;
+    line-height: 1;
+    text-align: left;
+}.contact-section p {
+    text-align: left;
+    text-align: justify;
+    margin-left: 40px;  
+}.contact-section li{
+    text-align: left;
+    text-align: justify;
+    margin-left: 40px; 
+}
+
+  
